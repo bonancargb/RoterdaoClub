@@ -1620,7 +1620,10 @@ p + p {
     }
   }
 
- 
+ .artist-profile .flex-column .pad-box {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   
 
 /*fim página artista */
